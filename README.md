@@ -1,4 +1,4 @@
-# 🔮 Shakespeare Next Word Prediction
+# 🔮 LSTM-RNN Next Word Predict
 
 A Long Short-Term Memory Recurrent Neural Network (LSTM-RNN) model trained on Shakespeare's Hamlet to predict the next word in a sequence.
 
